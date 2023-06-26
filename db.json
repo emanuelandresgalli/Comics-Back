@@ -1,0 +1,52 @@
+{
+  "comics": [
+    {
+      "title": "Spiderman: Entre los muertos",
+      "author": "Mark Millar",
+      "cover": "https://m.media-amazon.com/images/I/513-GlD0oWL.jpg",
+      "company": "Marvel",
+      "id": 2,
+      "aboutme": "Spider-Man, creado por Stan Lee y Steve Ditko en 1962, cuenta la historia de Peter Parker, un estudiante de secundaria que obtiene habilidades de araña después de ser mordido por una araña radiactiva. Con su nuevo poder, Peter asume la responsabilidad de proteger Nueva York como el amigable vecino Spider-Man. A medida que lucha contra el crimen y enfrenta desafíos personales, Spider-Man se convierte en un símbolo de esperanza y valentía. La historia de Spider-Man ha cautivado a los fans con su enfoque en la dualidad de la vida de Peter Parker y la responsabilidad que conlleva su poder, convirtiéndolo en uno de los superhéroes más queridos y reconocibles del universo Marvel."
+    },
+    {
+      "title": "Joker",
+      "author": "Azarello",
+      "company": "DC",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/814szaQEMxL.jpg",
+      "id": 4,
+      "aboutme": "El Joker, elegidos por muchos, enemigo acerrimo de Batman, también conocido como el Guasón, es uno de los villanos más emblemáticos de la historia de los cómics. Apareció por primera vez en 1940 en Batman #1 y se ha convertido en el archienemigo del Caballero Oscuro. El Joker, cuyo nombre real y origen son misteriosos, es un maestro del caos y la anarquía, caracterizado por su risa maníaca y su apariencia desquiciada. Su principal objetivo es sembrar el caos en Gotham City y poner a prueba la moralidad de Batman. A lo largo de los años, el Joker ha protagonizado innumerables historias, mostrando su inteligencia retorcida y su capacidad para llevar a cabo crímenes atroces. Su carisma y su imprevisibilidad lo han convertido en un ícono cultural, tanto en los cómics como en diversas adaptaciones en el cine y la televisión. El Joker personifica la oscuridad y la locura, desafiando constantemente al héroe y dejando una marca imborrable en el mundo de Batman."
+    },
+    {
+      "title": "Guardianes de la Galaxia",
+      "author": "Bendis",
+      "cover": "https://www.cinemascomics.com/wp-content/uploads/2018/11/guardianes-de-la-galaxia-vengadores-del-manana-portada.jpg",
+      "company": "Marvel",
+      "id": 5,
+      "aboutme": "Guardianes de la Galaxia es un equipo de superhéroes intergaláctico de Marvel Comics que debutó en 1969. La versión más conocida del equipo fue reinventada por Dan Abnett y Andy Lanning en 2008, presentando a un grupo ecléctico de marginados espaciales liderados por Star-Lord. Conformado por personajes como Gamora, Drax el Destructor, Rocket Raccoon y Groot, los Guardianes de la Galaxia se embarcan en aventuras épicas, protegiendo la galaxia de amenazas cósmicas y forjando lazos familiares inquebrantables. Su historia ha sido llevada al cine con gran éxito, consolidándolos como héroes improbables y carismáticos en el Universo Cinematográfico de Marvel."
+    },
+    {
+      "title": "Batman: The Long Halloween",
+      "author": "Joseph Loeb",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/91D+7bVSo0L.jpg",
+      "company": "DC",
+      "id": 6,
+      "aboutme": "Batman, creado por Bob Kane y Bill Finger en 1939, cuenta la historia de Bruce Wayne, un multimillonario que se convierte en el vigilante enmascarado de Gotham City después de presenciar el asesinato de sus padres en su infancia. Inspirado por su sed de justicia, Bruce se somete a un intenso entrenamiento físico y mental para convertirse en Batman, un símbolo de miedo para los criminales. Utilizando su inteligencia, habilidades de detective y un vasto arsenal de gadgets, Batman lucha incansablemente contra la delincuencia y defiende a los inocentes. A través de los años, ha enfrentado a sus icónicos enemigos como el Joker, el Pingüino y Catwoman, al tiempo que ha formado alianzas con otros héroes como Robin, Batgirl y la Liga de la Justicia. La historia de Batman explora temas oscuros, redención personal y la lucha constante entre la luz y la oscuridad en la lucha contra el crimen en Gotham City."
+    },
+    {
+      "title": "superman",
+      "author": "Geek",
+      "company": "dc",
+      "cover": "https://content.eccediciones.com/productos/11585/Superman_111_1_1a_cubierta.jpg",
+      "id": 9,
+      "aboutme": "El Hombre de Acero, es uno de los superhéroes más icónicos de DC Comics. Creado por Jerry Siegel y Joe Shuster en 1938, Superman es el último hijo del planeta Krypton, enviado a la Tierra antes de su destrucción.Criado como Clark Kent por una familia terrícola, descubre que tienehabilidades sobrehumanas debido a la radiación del sol amarillo de laTierra. Adoptando la identidad de Superman, se convierte en el defensor de la justicia y la verdad, luchando contra villanos poderosos y protegiendo Metrópolis y el mundo de las amenazas. Con su emblemático traje y su símbolo de la <<S>> en el pecho, Superman personifica la esperanza y el altruismo, defendiendo los ideales de la humanidad y sirviendo como un faro de inspiración para otros superhéroes y personas en todo el mundo."
+    },
+    {
+      "title": "planet hulk",
+      "author": "",
+      "cover": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/e0/637e3e84adfcf/clean.jpg",
+      "company": "marvel",
+      "id": 10,
+      "aboutme": "Hulk es un personaje de Marvel Comics que apareció por primera vez en 1962. Creado por Stan Lee y Jack Kirby, Hulk es la contraparte alter ego del científico Bruce Banner. Después de ser expuesto a una intensa radiación gamma, Banner se transforma en Hulk, una criatura de increíble fuerza y poder desatado. A lo largo de su historia, Hulk ha luchado con su propia ira y su lucha interna por el control. Considerado como un monstruo por algunos y un héroe por otros, Hulk ha participado en numerosas batallas épicas, ha sido miembro de los Vengadores y ha enfrentado amenazas cósmicas. La historia de Hulk es una exploración de la dualidad humana y ha capturado la imaginación de los fanáticos con su poder inmenso y su lucha constante por encontrar la paz y la aceptación en un mundo que a menudo lo rechaza."
+    }
+  ]
+}
